@@ -5,7 +5,7 @@
 
 ---
 
-## 👤 Sobre mim
+## Sobre mim
 
 ```yaml
 nome:       "Arthur Gomes Menezes"
@@ -16,7 +16,7 @@ hobbie:     "Transformar ideias em produtos reais"
 ```
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -30,19 +30,19 @@ hobbie:     "Transformar ideias em produtos reais"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
 **Ferramentas**
  
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
@@ -52,7 +52,7 @@ hobbie:     "Transformar ideias em produtos reais"
 
 ---
 
-## 🌐 Contatos
+## Contatos
 
 <div align="center">
 
