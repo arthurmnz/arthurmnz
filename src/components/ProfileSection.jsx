@@ -52,7 +52,7 @@ function ProfileSection({ name }) {
     <section className="mx-auto flex min-h-[calc(100vh-4rem)] w-full max-w-5xl items-center justify-center px-6">
       <h1 className="stalinist-one-regular text-center text-4xl tracking-wide text-zinc-100">
         {typedText}
-        <span className="ml-2 inline-block animate-pulse" aria-hidden="true">
+        <span className="ml-1 inline-block animate-pulse" aria-hidden="true">
           |
         </span>
       </h1>
